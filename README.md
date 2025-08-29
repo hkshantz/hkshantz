@@ -10,7 +10,7 @@ Currently, I'm exploring the intersection of data science and web development, w
 
 ## Connect with me:
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/hemil-kaklotar-018460140) or explore my projects on [GitHub](https://github.com/hemilkaklotar).
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/hemil-kaklotar-018460140) or explore my projects on [GitHub](https://github.com/hkshantz).
 
 | CodePen | Dev.to | Twitter | LinkedIn | Stack Overflow | Medium | HackerRank | LeetCode |
 |---------|--------|---------|----------|----------------|--------|------------|----------|
