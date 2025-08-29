@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=hemilkaklotar&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## About Me
 
 Hello! I'm Hemil Kaklotar, a dedicated Data Scientist and Full-Stack Developer with a passion for building data-driven applications and seamless user experiences. 
